@@ -14,3 +14,6 @@ Nicolas Rodrigues Bahia (https://github.com/Nickgamerheroi)
 Pedro Henrique Alves Costa (https://github.com/GGduGRAU)
 
 Tharcísio Alves Selis Silva (https://github.com/thselis)
+
+# Wireframes
+Link do Figma: https://www.figma.com/design/qvNUpaj5gBRe3kvFkYRv77/trabalho-final-web?m=auto&t=uEUcDUVIvGUMGmwS-1
